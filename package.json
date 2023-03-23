@@ -1,5 +1,5 @@
 {
-  "name": "@safe-global/auth-kit",
+  "name": "@spiritbro/auth-kit",
   "version": "0.1.0-alpha.2",
   "description": "Authentication library for web2 logins",
   "main": "dist/src/index.js",
